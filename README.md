@@ -32,6 +32,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kulalamurari&" alt="k-murari" /></p>
  <b> 
    <p>
-  <h2>This is a Bank Management Application </h2> 
+  <h2> Bank Management Application </h2> 
 
   
